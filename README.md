@@ -1,5 +1,5 @@
 # ts-ps Blog
-### The differences among any, unknown, and never Types in TypeScript:
+### The Differences among any, unknown, and never Types in TypeScript:
 
 These are special types in TypeScript. Let’s understand them one by one.
 
